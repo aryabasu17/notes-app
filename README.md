@@ -1,5 +1,4 @@
 # notes-app-javascript-localstorage
 A Notes App built with vanilla JavaScript and Local Storage.
 
-This is taken from my YouTube video tutorial at:
-https://youtu.be/01YKQmia2Jw
+![IMG_20230516_014953_670](https://github.com/aryabasu17/notes-app/assets/67229020/b98889e4-7e47-4355-977c-74ceb8d1e2d7)
